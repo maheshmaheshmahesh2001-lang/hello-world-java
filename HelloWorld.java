@@ -4,8 +4,6 @@ public class HelloWorld {
     System.out.println("Hello, World");
     System.out.println("this is madhu");
 
-    System.out.println("this is mahesh");
-    System.out.println("this is madhun");
-   
+    System.out.println("This is a Sample Project");
   }
 }
